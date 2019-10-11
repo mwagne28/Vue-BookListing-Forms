@@ -37,7 +37,7 @@ export default {
         "bought", "borrowed"
       ],
       holding: "bought",
-      searchInput: ""
+      searchInput: "",
     };
   },
   computed:{
